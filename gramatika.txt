@@ -1,0 +1,7 @@
+tekst = '<W' gloss lemma msd tag in out '>' character '</W>'
+gloss = 'gloss="' character'"'
+lemma = 'lemma="' character'"'
+msd = 'msd="' character'"'
+tag = 'tag="' character '"'
+in ='in="' character '"'
+out = 'out="' character '"'
